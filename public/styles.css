@@ -1,0 +1,16 @@
+body{
+    background-color: grey;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+    position: relative;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 span{
+    color: blanchedalmond;
+}
